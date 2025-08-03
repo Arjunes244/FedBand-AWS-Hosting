@@ -73,9 +73,10 @@ This repository provides a comprehensive walkthrough of deploying the Django-bas
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
-*(Screenshots of the deployment and infrastructure can be added here)*
+<img width="1848" height="1003" alt="image" src="https://github.com/user-attachments/assets/75a5aab3-7da1-4ed8-80dd-897f7778474c" />
+
 
 ---
 
